@@ -4,7 +4,7 @@ A web vertical slice of an idle taxi fleet game. Pick a real city, drag from a c
 
 Play: https://chrisli328.github.io/build-a-taxi-fleet/
 
-Video: [video/build-a-taxi-fleet.mp4](video/build-a-taxi-fleet.mp4)
+Video (58 s): https://chrisli328.github.io/build-a-taxi-fleet/video/build-a-taxi-fleet.mp4
 
 Best in landscape. Works with mouse or touch.
 
